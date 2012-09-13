@@ -6,6 +6,8 @@ title: Strona główna
 
 Po lewej znajduje się lista przedmiotów z linkami do notatek.
 
+HACKED BY CHINA KURWA!
+
 ### Autorzy
 
 - Rafał Hirsz
